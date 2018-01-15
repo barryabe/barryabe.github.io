@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/jbskitchen.png
+title: JB,S Kitchen Website
+permalink: projects/jbs_kitchen
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-11-20
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Bluehost
+  - Wordpress 
+summary: A simple website made for a small restaurant on Maui.
+projecturl: http://jbskitchen.com
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+This website was a simple website made for a small family run buisness on Maui. The purpose of this website was to allow possible customers to see the menu and to find the location of the restaurant.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This website was made using WordPress. It uses a basic theme along with some free to use widgets in order to make the menu page.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
