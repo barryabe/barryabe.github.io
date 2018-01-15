@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jbskitchen.png
+image: images/jbskitchen.jpg
 title: JB,S Kitchen Website
 permalink: projects/jbs_kitchen
 # All dates must be YYYY-MM-DD format!
