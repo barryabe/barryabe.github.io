@@ -19,5 +19,5 @@ The purpose of the Monthly Subscription Manager is the keep track of monthly sub
 
 For this project, I helped to conceptualize the idea and to debug the code. I also worked on learning to use the SQLite library and create the basic design of the app. This project required us to learn to program in Java and XML, learn the Android Studios interface, and to colaborate using our github accounts.
 
-
+https://github.com/barryabe/EE396_E13
 
