@@ -18,4 +18,4 @@ For this project we were trying to create a scheme to c++ converter. In this pro
 During my time on this project there was a lot of miscommunication that we had to work through but in the end we did have a semi-working program. Through this project I learned about what a programming language is and the different things that make up a language such as a character and an alphabet.
 
 
-https://github.com/uhmanoa-transpiler-project/shaka-scheme
+This is a [link to the github](https://github.com/uhmanoa-transpiler-project/shaka-scheme). 
