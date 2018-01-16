@@ -5,7 +5,7 @@ image: images/shaka.png
 title: Shaka Scheme
 permalink: projects/shaka_scheme
 # All dates must be YYYY-MM-DD format!
-date: 2017-01-020
+date: 2017-01-20
 labels:
   - Google Tests
   - C++
