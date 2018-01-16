@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/android.jpg
+image: images/shaka.png
 title: Shaka Scheme
 permalink: projects/shaka_scheme
 # All dates must be YYYY-MM-DD format!
