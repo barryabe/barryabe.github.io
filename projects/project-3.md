@@ -2,25 +2,20 @@
 layout: project
 type: project
 image: images/android.jpg
-title: Monthly Subscription Manager
-permalink: projects/android_app
+title: Shaka Scheme
+permalink: projects/shaka_scheme
 # All dates must be YYYY-MM-DD format!
-date: 2017-09-01
+date: 2017-01-020
 labels:
-  - Android Studios
-  - Java
-  - XML
-summary: My partner and I created an android app that would keep track of a user's monthly subscription and sync it with google calendars.
+  - Google Tests
+  - C++
+summary: I worked to create test cases for a scheme to c++ converter.
 ---
 
 
+For this project we were trying to create a scheme to c++ converter. In this project I was tasked with making test cases for the program. In order to do this I was tasked with learning to use google tests and learn how to work through terminal a bit. This project was also my first time working with GitHub.
 
-The purpose of the Monthly Subscription Manager is the keep track of monthly subscriptions and sync the payment dates with google calendars. The app also sums up the total cost of your monthly subscriptions so that you know how much you are expecting to pay every month. In the current age more and more companies are looking to make their buisness models subscription based even if they previously were not (ex. Adobe, Youtube, Pandora). Having an app like this can help you to kep track of what you are paying for and to figure out what you do and don't need to be subscribed to if the overall onthly cost gets to high.
+During my time on this project there was a lot of miscommunication that we had to work through but in the end we did have a semi-working program. Through this project I learned about what a programming language is and the different things that make up a language such as a character and an alphabet.
 
-<img class="ui medium left circular floated image" src="../images/calendar.jpg">
-
-
-For this project, I helped to conceptualize the idea and to debug the code. I also worked on learning to use the SQLite library and create the basic design of the app. This project required us to learn to program in Java and XML, learn the Android Studios interface, and to colaborate using our github accounts.
-
-https://github.com/barryabe/EE396_E13
+https://github.com/uhmanoa-transpiler-project/shaka-scheme
 
