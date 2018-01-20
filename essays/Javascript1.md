@@ -4,7 +4,7 @@ layout: essay
 type: essay
 title: Future
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-15
+date: 2018-01-18
 labels:
   - Software Engineering
   - Learning
