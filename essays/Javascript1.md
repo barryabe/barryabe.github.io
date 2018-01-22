@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: JavaScript1
+title: The life of a an engineering student is a lonely one but it is the only one that I have left so I must follow it until the end #Blessed
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
   - Software Engineering
   - Learning
 ---
-I can see the apeal of JavaScript as a programming language. There are some nice features that come with the language, such as not needing to specify the type of a variable. Many of the features are similiar to other programming languages, such as a for and while loop, which is nice. JavaScript seems like it would be useful as a programming language for a software engineer due to how variables work.
+I can see the appeal of JavaScript as a programming language. There are some nice features that come with the language, such as not needing to specify the type of a variable. Many of the features are similiar to other programming languages, such as a for and while loop, which is nice. JavaScript seems like it would be useful as a programming language for a software engineer due to how variables work.
 
 I think that being able to store things as just variable makes it a lot easier to receive an input. I do see a downside of the program having to figure out how to use what it has recieved. This means that a prgrammer has to be a lot more careful with what a vafiable can do or how it is read.
 
