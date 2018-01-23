@@ -15,7 +15,7 @@ summary: My partner and I created an android app that would keep track of a user
 
 
 
-The purpose of the Monthly Subscription Manager is the keep track of monthly subscriptions and sync the payment dates with google calendars. The app also sums up the total cost of your monthly subscriptions so that you know how much you are expecting to pay every month. In the current age more and more companies are looking to make their buisness models subscription based even if they previously were not (ex. Adobe, Youtube, Pandora). Having an app like this can help you to kep track of what you are paying for and to figure out what you do and don't need to be subscribed to if the overall onthly cost gets to high.
+The purpose of the Monthly Subscription Manager is the keep track of monthly subscriptions and sync the payment dates with google calendars. The app also sums up the total cost of your monthly subscriptions so that you know how much you are expecting to pay every month. In the current age more and more companies are looking to make their buisness models subscription based even if they previously were not (ex. Adobe, Youtube, Pandora). Having an app like this can help you to keep track of what you are paying for and to figure out what you do and don't need to be subscribed to if the overall monthly cost gets to high.
 
 <img class="ui medium left circular image" src="../images/calendar.jpg">
 
