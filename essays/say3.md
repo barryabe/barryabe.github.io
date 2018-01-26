@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Don't try and use a coding website to try and get free work for your adult website's ads
+title: Dont try and use a coding website to try and get free work for your adult website's ads
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
