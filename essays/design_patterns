@@ -1,15 +1,22 @@
 ---
 layout: essay
 type: essay
-title: The life of a an engineering student is a lonely one but it is the only one that I have left so I must follow it until the end #Blessed
+title: I'm scared
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-18
+date: 2018-04-30
 labels:
   - Software Engineering
   - Learning
 ---
-I can see the appeal of JavaScript as a programming language. There are some nice features that come with the language, such as not needing to specify the type of a variable. Many of the features are similiar to other programming languages, such as a for and while loop, which is nice. JavaScript seems like it would be useful as a programming language for a software engineer due to how variables work.
 
-I think that being able to store things as just variable makes it a lot easier to receive an input. I do see a downside of the program having to figure out how to use what it has recieved. This means that a programmer has to be a lot more careful with what a vafiable can do or how it is read.
+Design patterns exist to make our lives easier. As programmers we will have to shovel through thousands upon thousands of lines
+of code throughout our lives. If we wrote this code from scratch each time we would be wasting a lot of our precious time.
+A design pattern is basically a template that we use in order to make our lives easier. In my opinion it is similar to a function
+in the way that we can use it as a piece of a bigger idea. In the way of web design we would have a general template made 
+that we can work off of and create somehting new with using the design pattern as a starting point.
 
-I find the WODs to be useful so far. I find them a good way to practice quickly figuring out a solution and converting this idea into code. I think that the style of work can be a little stressful but overall I feel like it will help me to learn.
+In recent history I have used design patterns a lot for my ICS 314 class. We had a lot of assignments that required us to create
+a static website using things such as sematic-ui, react, and meteor. Even though it was a new assignment each time there was a 
+pattern in the work. We had 3 sample websites that we rebuilt and each website allowed us to use pieces from the previous.
+We built a static website for Hardrock Cafe in Waikiki and I used a previous restaurant website we made as a base. There will
+be many more opportunities for me to use design patterns throughout my career as a programmer so I hope to make the most of it.
