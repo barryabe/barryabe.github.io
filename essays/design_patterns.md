@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: I'm scared
+title: I'm trying my best to graduate on time, hopefully the skills I learned will help me
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-30
 labels:
