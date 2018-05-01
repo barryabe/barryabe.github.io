@@ -2,21 +2,19 @@
 layout: project
 type: project
 image: images/jbskitchen.jpg
-title: JB,S Kitchen Website
-permalink: projects/jbs_kitchen
+title: QuestBoards
+permalink: projects/questboards
 # All dates must be YYYY-MM-DD format!
-date: 2017-11-20
+date: 2018-4-06
 labels:
-  - Bluehost
-  - Wordpress 
-summary: A simple website made for a small restaurant on Maui.
+  - Meteor
+  - React
+summary: Quick jobs for poor kids
 # projecturl: http://jbskitchen.com
 ---
 
-This website was a simple website made for a small family run buisness on Maui. The purpose of this website was to allow possible customers to see the menu and to find the location of the restaurant. It also allows customers to find the contact information for the restaurant.
+This website was made in order for students to find quick jobs that they could complete for cash. I worked with 2 other students to complete this website. I worked on creating the create job page, working on the job schema, and the edit jobs page.
 
 <img class="ui medium image" src="../images/banchan.jpg">
-
-This website was made using WordPress. It uses a basic theme along with some free to use widgets in order to make the menu page. I organized the layout of the pages and set up the menu item.
  
 [link to website](http://jbskitchen.com)
