@@ -15,6 +15,6 @@ summary: Quick jobs for poor kids
 
 This website was made in order for students to find quick jobs that they could complete for cash. I worked with 2 other students to complete this website. I worked on creating the create job page, working on the job schema, and the edit jobs page.
 
-<img class="ui medium image" src="../images/banchan.jpg">
+<img class="ui medium image" src="../images/home.jpg">
  
-[link to website](http://jbskitchen.com)
+[link to website](https://questboards.meteorapp.com/#/)
