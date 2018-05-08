@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/android.jpg
 title: Monthly Subscription Manager
-permalink: projects/android_app
+permalink: projects/questboards
 # All dates must be YYYY-MM-DD format!
-date: 2017-09-01
+date: 2018-4-06
 labels:
   - Android Studios
   - Java
