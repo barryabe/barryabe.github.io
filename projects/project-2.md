@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/android.jpg
+image: images/logo.png
 title: Monthly Subscription Manager
 permalink: projects/questboards
 # All dates must be YYYY-MM-DD format!
@@ -10,10 +10,8 @@ labels:
   - Meteor
   - React
 summary: Quick jobs for poor kids
-# projecturl: https://questboards.meteorapp.com/#/
+# projecturl: https://the-artists.github.io
 ---
-
-
 
 This website was made in order for students to find quick jobs that they could complete for cash. I worked with 2 other students to complete this website. I worked on creating the create job page, working on the job schema, and the edit jobs page.
 
