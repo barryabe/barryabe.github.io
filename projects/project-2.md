@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/logo.png
-title: Monthly Subscription Manager
+title: QuestBoards
 permalink: projects/questboards
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-06
